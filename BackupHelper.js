@@ -241,8 +241,8 @@ var _AUTO_BAK_INTERVAL = 0;
 
 // -------------------- Main -------------------- //
 
-_LOG('BackupHelper存档备份助手-已装载  当前版本：' + _VER);
-_LOG('后台命令： backup 开始备份');
-_LOG('后台命令： backup reload 重新加载配置文件');
+_LOG('BackupHelperLod);
+_LOG('命令： #backup 开始备份');
+_LOG('命令： #backup reload 重新加载配置文件');
 
 initLocalConfig();
